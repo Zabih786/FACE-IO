@@ -1,5 +1,5 @@
 # FACE-IO
-<img src = "ADVA.png" width ="1000" />
+<img src = "Face IO.png" width ="1000" />
 
 INTRODUCTION
 
@@ -26,5 +26,3 @@ SYSTEM SCREENSHOTS
 <img src = "01.png" width ="1000" /> 
 <img src = "02.png" width ="1000" />
 <img src = "03.png" width ="1000" />
-<img src = "04.png" width ="1000" />
-<img src = "05.png" width ="1000" />
